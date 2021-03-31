@@ -1,6 +1,6 @@
 # pranks
 ### welcome to my pranks repo
-It is a conglomerate of fun ( non invasive ) javascipt
+This is a conglomerate of fun ( non invasive ) javascipt
 
 #how to use these
 1. open the browser
