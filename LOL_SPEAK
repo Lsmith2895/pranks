@@ -1,0 +1,4 @@
+setInterval(function() {
+  var text = new SpeechSynthesisUtterance("LOLOLOLOLOLOLOLOL"); 
+  speechSynthesis.speak(text);
+}, 200000);
